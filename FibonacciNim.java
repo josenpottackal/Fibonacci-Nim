@@ -2,8 +2,8 @@
 /**
 * File Name: FibonacciNim.java
 * Purpose: Interfaces the game Fibonacci Nim
-* Date: 2020-03-01
-* Last modified: 2020-03-01
+* Date: 2019-10-07
+* Last modified: 2020-10-07
 * Author: Josen Pottackal
 * Copy right no copyright
 * Version: 1.0
